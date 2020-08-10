@@ -1,0 +1,76 @@
+Added Component: Designator=C1(CC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RC0805_3D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(PLS4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R5-2
+Added Pin To Net: NetName=3.3V Pin=R6-2
+Added Pin To Net: NetName=3.3V Pin=U1-8
+Added Pin To Net: NetName=3.3V Pin=X1-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Pin To Net: NetName=NetR1_1 Pin=X1-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Pin To Net: NetName=NetR2_1 Pin=X1-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-3
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R7-2
+Added Pin To Net: NetName=NetR4_1 Pin=U1-7
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R8-2
+Added Pin To Net: NetName=NetR5_1 Pin=U1-6
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R9-2
+Added Pin To Net: NetName=NetR6_1 Pin=U1-5
+Added Net: Name=NetR6_1
+Added Class: Name=I2C_Sheet
+Added Room: Name=I2C_Sheet
